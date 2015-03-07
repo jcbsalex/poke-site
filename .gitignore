@@ -1,0 +1,35 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(https://i.4cdn.org/wg/1425606876225.jpg) 50%;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: silver;
+}
+h1 {
+  font-size: 30px;
+  background:silver;
+}
+h2 {
+  font-size: 20px;
+  background-color:grey;
+}
+span {
+  background:white;
+}
+a{
+  color:white;
+  text-decoration:none;
+  
+  }
+</style>
+
+<h1 align="top">Welcome to <span>Art of Pokemon!</span></h1><br>
+<h2 align="top">(artistic representation of pokemon)</h2><br>
+
+<a href="" align="bottom">gallery</a>
+<a href="">submit</a>
