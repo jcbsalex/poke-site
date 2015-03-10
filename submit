@@ -1,0 +1,23 @@
+<style>
+  body{
+  padding-top: 100px;
+  text-align: center;
+  font-family:helvetica;
+  background: url(https://cloud.githubusercontent.com/assets/3193523/6579818/e6e43afc-c709-11e4-8b1e-3ffa0df6cf1f.jpg) 50%;
+  background-size: cover;
+  margin:0px;
+}
+  h1 {
+  font-size: 20px;
+  background:white;
+  margin-top:25%;
+  opacity: 0.6;
+}
+span{
+  color:orangered;
+  }
+
+</style>
+
+
+<h1>email me at <span>Placeholder</span> for information on submissions!</h1>
