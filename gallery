@@ -1,0 +1,35 @@
+<style>
+  body{
+  padding-top: 100px;
+  text-align: center;
+  font-family:monaco, monospace;
+  background: url(https://cloud.githubusercontent.com/assets/3193523/6579196/ee10c84e-c705-11e4-90b9-68bb5b39ed88.jpg) 50%;
+  background-size: cover;
+  margin:0px;
+}
+  a{
+  color:black;
+  font-size:22px;
+  text-decoration:none;
+  display:block;
+}
+  .container{
+  background: rgb(170, 187, 97); /* Fallback */
+  background: rgba(170, 187, 97, 0.5);
+  width:100%;
+}
+
+</style>
+
+<div class="container" >
+
+<a href="">Polywhirl</a>
+<a href="">Gengar</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
+<a href="">placeholder</a>
